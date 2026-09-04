@@ -1,0 +1,192 @@
+2026-09-02 22:18:48,756 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:23:00,179 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:23:00,179 [INFO] === RadarOnly QPE ===
+2026-09-02 22:23:01,422 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 142, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 110, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:23:22,592 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:23:22,592 [INFO] === RadarOnly QPE ===
+2026-09-02 22:23:23,093 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 142, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 110, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:27:31,820 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:27:31,820 [INFO] === RadarOnly QPE ===
+2026-09-02 22:27:32,627 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 145, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 126, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:28:07,878 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:28:07,878 [INFO] === RadarOnly QPE ===
+2026-09-02 22:28:08,411 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 147, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 122, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:29:27,817 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:29:27,817 [INFO] === RadarOnly QPE ===
+2026-09-02 22:29:28,299 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 147, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 122, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:29:54,783 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:29:54,784 [INFO] === RadarOnly QPE ===
+2026-09-02 22:29:55,344 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 147, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 122, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:30:36,066 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:30:36,066 [INFO] === RadarOnly QPE ===
+2026-09-02 22:30:36,593 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 147, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 125, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:33:06,273 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:33:06,273 [INFO] === RadarOnly QPE ===
+2026-09-02 22:33:06,813 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 146, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 124, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:33:31,935 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:33:31,935 [INFO] === RadarOnly QPE ===
+2026-09-02 22:33:32,386 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 147, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 125, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:34:45,148 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:34:45,148 [INFO] === RadarOnly QPE ===
+2026-09-02 22:34:45,654 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: name 'date' is not defined
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 150, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 125, in download_mrms_day
+    print(year, month, date)
+NameError: name 'date' is not defined
+
+2026-09-02 22:35:16,960 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:35:16,960 [INFO] === RadarOnly QPE ===
+2026-09-02 22:35:17,454 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 150, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 128, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:36:34,096 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:36:34,096 [INFO] === RadarOnly QPE ===
+2026-09-02 22:36:34,594 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: 'PosixPath' object has no attribute 'exist'
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 153, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 130, in download_mrms_day
+    print(gz_file_path.exist(), gz_file_path)
+AttributeError: 'PosixPath' object has no attribute 'exist'
+
+2026-09-02 22:36:54,085 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:36:54,085 [INFO] === RadarOnly QPE ===
+2026-09-02 22:36:54,548 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 153, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 131, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:37:07,342 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:37:07,342 [INFO] === RadarOnly QPE ===
+2026-09-02 22:37:07,851 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 153, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 131, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:39:38,914 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:39:38,914 [INFO] === RadarOnly QPE ===
+2026-09-02 22:39:39,709 [ERROR] [MRMS ERROR] CONUS/RadarOnly_QPE_01H_00.00 20250401: division by zero
+Traceback (most recent call last):
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 153, in run_mrms_pipeline
+    download_mrms_day(bucket, product, date_str, compress_dir, extract_dir, s3_client)
+  File "/home/adil/Desktop/PhD_Research/Research_Projects/QPE_Project/dataset/data_download/qpe_data_pipeline.py", line 141, in download_mrms_day
+    1/0
+ZeroDivisionError: division by zero
+
+2026-09-02 22:42:38,929 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:42:38,929 [INFO] === RAQI ===
+2026-09-02 22:42:50,587 [INFO] [MRMS] CONUS/RadarAccumulationQualityIndex_01H_00.00 20250401: 24 files found, 24 newly downloaded, 24 newly extracted
+2026-09-02 22:46:09,258 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:46:09,258 [INFO] === MADIS gauges ===
+2026-09-02 22:46:31,096 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:46:31,105 [INFO] === MADIS gauges ===
+2026-09-02 22:46:31,161 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:47:46,884 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:47:46,894 [INFO] === MADIS gauges ===
+2026-09-02 22:47:46,939 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:49:03,266 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:49:03,266 [INFO] === MADIS gauges ===
+2026-09-02 22:49:03,311 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:49:58,328 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:49:58,328 [INFO] === MADIS gauges ===
+2026-09-02 22:49:58,373 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:51:07,498 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:51:07,498 [INFO] === MADIS gauges ===
+2026-09-02 22:51:07,543 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:51:54,965 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:51:54,965 [INFO] === MADIS gauges ===
+2026-09-02 22:51:55,010 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:52:43,038 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:52:43,038 [INFO] === MADIS gauges ===
+2026-09-02 22:52:43,084 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 22:58:44,261 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 22:58:44,261 [INFO] === MADIS gauges ===
+2026-09-02 22:58:44,307 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 23:00:16,173 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 23:00:16,173 [INFO] === MADIS gauges ===
+2026-09-02 23:00:16,217 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 23:06:38,333 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 23:06:38,343 [INFO] === MADIS gauges ===
+2026-09-02 23:06:38,390 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 23:28:04,147 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 23:28:04,157 [INFO] === MADIS gauges ===
+2026-09-02 23:28:04,203 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
+2026-09-02 23:41:21,233 [INFO] Starting pipeline for 1 day(s): 20250401 -> 20250401
+2026-09-02 23:41:21,234 [INFO] === MADIS gauges ===
+2026-09-02 23:41:21,279 [INFO] Basin bbox: lat [30.945, 43.458], lon [-115.734, -105.625]
